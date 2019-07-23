@@ -44,7 +44,7 @@ steps:
     projectName: '$(projectName)'
     projectVersion: '$(Build.BuildNumber)'
     extraProperties: |
-      sonar.cs.opencover.reportsPaths=$(Build.SourcesDirectory)/TestResults/Converage/coverage.opencover.xml
+      sonar.cs.opencover.reportsPaths=$(Build.SourcesDirectory)/TestResults/Coverage/coverage.opencover.xml
       sonar.exclusions=**/wwwroot/lib/**/*
 
 - task: DotNetCoreCLI@2
