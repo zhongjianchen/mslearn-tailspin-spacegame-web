@@ -1,3 +1,4 @@
+[![Build Status](https://datasan-geico.visualstudio.com/Space%20Game%20-%20Web%20-%20Pipeline/_apis/build/status/zhongjianchen.mslearn-tailspin-spacegame-web?branchName=master)](https://datasan-geico.visualstudio.com/Space%20Game%20-%20Web%20-%20Pipeline/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
